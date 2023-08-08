@@ -50,8 +50,8 @@ github_username:  talkiebox
 about_profile_image: images/skull-690246.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-"If you don't know where you want to go, then it doesn't matter which path you take."
-  Lewis Carroll, Alice in Wonderland
+  If you don't know where you want to go, then it doesn't matter which path you take.
+    Lewis Carroll, Alice in Wonderland
  
   # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
