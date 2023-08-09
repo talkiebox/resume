@@ -83,7 +83,7 @@ content:
       - layout: left
         title: Company N
         sub_title: Backend Engineer
-        caption: Date Range (eg. November 2022 - present)
+        caption: August 2022 - present
         # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -93,12 +93,22 @@ content:
       - layout: left
         title: Company M
         sub_title: Web Developer 
-        caption: Date Range (eg. November 2017 - 2021)
+        caption: March 2017 - November 2021
         # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role      
+          Description of role
+
+      - layout: left
+        title: Intern
+        sub_title: Web Developer 
+        caption: July 2015 - August 2016
+        # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Education
     layout: list
     content:
