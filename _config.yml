@@ -89,7 +89,6 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-    - layout: right
         title: Company M
         sub_title: Web Developer 
         caption: Date Range (eg. November 2017 - 2021)
