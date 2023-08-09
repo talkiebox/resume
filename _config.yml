@@ -81,14 +81,23 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Company N
+        sub_title: Backend Engineer
+        caption: Date Range (eg. November 2022 - present)
+        # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+    - layout: right
+        title: Company M
+        sub_title: Web Developer 
+        caption: Date Range (eg. November 2017 - 2021)
+        # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role      
   - title: Education
     layout: list
     content:
